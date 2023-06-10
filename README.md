@@ -135,7 +135,7 @@ void Error_Handler(void)
 void assert_failed(uint8_t *file, uint32_t line)
 {
 }
-#endif /* USE_FULL_ASSERT */
+#endif 
 ```
 ## Output  :
 ![proj2](https://user-images.githubusercontent.com/118799103/227897514-c3fdcc68-3ca1-4bfb-82cf-ca5097e75ae1.jpg)
